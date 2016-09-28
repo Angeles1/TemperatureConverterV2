@@ -27,6 +27,7 @@ public class NewJFrame extends javax.swing.JFrame {
         setTitle("Conversor Temperatura");
         setBackground(new java.awt.Color(204, 255, 204));
         setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+        setLocation(new java.awt.Point(300, 100));
 
         Autor.setFont(new java.awt.Font("Purisa", 1, 12)); // NOI18N
         Autor.setText("Hecho por Ángeles Fuentes Expósito para DIU");
