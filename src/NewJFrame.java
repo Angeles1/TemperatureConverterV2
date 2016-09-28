@@ -43,7 +43,6 @@ public class NewJFrame extends javax.swing.JFrame {
 
         Resultado.setEditable(false);
         Resultado.setFont(new java.awt.Font("Ubuntu Mono", 1, 18)); // NOI18N
-        Resultado.setHorizontalAlignment(javax.swing.JTextField.CENTER);
         Resultado.setDisabledTextColor(new java.awt.Color(0, 0, 0));
         Resultado.setEnabled(false);
         Resultado.addActionListener(new java.awt.event.ActionListener() {
